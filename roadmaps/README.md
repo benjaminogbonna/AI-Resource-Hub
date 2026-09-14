@@ -43,3 +43,66 @@ Step-by-step guides for specific job roles — what to learn and in what order.
 | [Forward Deployed Engineer](https://roadmap.sh/forward-deployed-engineer) | Path to becoming a forward-deployed / client-facing engineer |
 
 ---
+
+## Skill-Based Roadmaps
+Focused guides for a specific language, framework, or skill.
+
+| Roadmap | Description |
+|---|---|
+| [Claude Code](https://roadmap.sh/claude-code) | Learning path for Anthropic's Claude Code CLI |
+| [Python for Data Analysis](https://roadmap.sh/python-data-analysis) | Using Python specifically for data analysis workflows |
+| [R Programming](https://roadmap.sh/r-programming) | Learning the R programming language |
+| [Vibe Coding](https://roadmap.sh/vibe-coding) | Guide to AI-assisted / "vibe" coding workflows |
+| [Power BI](https://roadmap.sh/power-bi) | Learning Microsoft Power BI for data visualization |
+| [LeetCode](https://roadmap.sh/leetcode) | Structured plan for practicing coding interview problems |
+| [Python](https://roadmap.sh/python) | Learning the Python programming language |
+| [Computer Science](https://roadmap.sh/computer-science) | Core computer science fundamentals |
+| [SQL](https://roadmap.sh/sql) | Learning SQL and relational databases |
+| [OpenClaw](https://roadmap.sh/openclaw) | Learning path for the OpenClaw project |
+| [React](https://roadmap.sh/react) | Learning the React library |
+| [Vue](https://roadmap.sh/vue) | Learning the Vue.js framework |
+| [Angular](https://roadmap.sh/angular) | Learning the Angular framework |
+| [JavaScript](https://roadmap.sh/javascript) | Learning the JavaScript language |
+| [TypeScript](https://roadmap.sh/typescript) | Learning TypeScript on top of JavaScript |
+| [Node.js](https://roadmap.sh/nodejs) | Learning server-side JavaScript with Node.js |
+| [System Design](https://roadmap.sh/system-design) | Learning to design large-scale systems |
+| [Java](https://roadmap.sh/java) | Learning the Java programming language |
+| [ASP.NET Core](https://roadmap.sh/aspnet-core) | Learning Microsoft's ASP.NET Core framework |
+| [Spring Boot](https://roadmap.sh/spring-boot) | Learning the Spring Boot Java framework |
+| [Flutter](https://roadmap.sh/flutter) | Learning cross-platform app development with Flutter |
+| [C Programming](https://roadmap.sh/c) | Learning the C programming language |
+| [C++](https://roadmap.sh/cpp) | Learning the C++ programming language |
+| [Rust](https://roadmap.sh/rust) | Learning the Rust programming language |
+| [Go](https://roadmap.sh/golang) | Learning the Go programming language |
+| [AI Product Builders](https://roadmap.sh/ai-product-builder) | Building products on top of AI/LLM capabilities |
+| [Design Architecture](https://roadmap.sh/software-design-architecture) | Software design and architecture principles |
+| [React Native](https://roadmap.sh/react-native) | Learning cross-platform mobile apps with React Native |
+| [Design System](https://roadmap.sh/design-system) | Building and maintaining a design system |
+| [Prompt Engineering](https://roadmap.sh/prompt-engineering) | Learning to write effective prompts for LLMs |
+| [MongoDB](https://roadmap.sh/mongodb) | Learning the MongoDB NoSQL database |
+| [Linux](https://roadmap.sh/linux) | Learning the Linux operating system |
+| [Kubernetes](https://roadmap.sh/kubernetes) | Learning container orchestration with Kubernetes |
+| [Docker](https://roadmap.sh/docker) | Learning containerization with Docker |
+| [AWS](https://roadmap.sh/aws) | Learning Amazon Web Services |
+| [Terraform](https://roadmap.sh/terraform) | Learning infrastructure-as-code with Terraform |
+| [Data Structures & Algorithms](https://roadmap.sh/datastructures-and-algorithms) | Core DSA concepts for interviews and CS fundamentals |
+| [Redis](https://roadmap.sh/redis) | Learning the Redis in-memory data store |
+| [Git and GitHub](https://roadmap.sh/git-github) | Learning version control with Git and GitHub |
+| [PHP](https://roadmap.sh/php) | Learning the PHP programming language |
+| [Cloudflare](https://roadmap.sh/cloudflare) | Learning Cloudflare's platform and services |
+| [AI Agents](https://roadmap.sh/ai-agents) | Learning to build autonomous/agentic AI systems |
+| [Next.js](https://roadmap.sh/nextjs) | Learning the Next.js React framework |
+| [Kotlin](https://roadmap.sh/kotlin) | Learning the Kotlin programming language |
+| [HTML](https://roadmap.sh/html) | Learning HTML fundamentals |
+| [CSS](https://roadmap.sh/css) | Learning CSS fundamentals |
+| [Swift & SwiftUI](https://roadmap.sh/swift-ui) | Learning Swift and SwiftUI for Apple platforms |
+| [Shell / Bash](https://roadmap.sh/shell-bash) | Learning shell scripting with Bash |
+| [Laravel](https://roadmap.sh/laravel) | Learning the Laravel PHP framework |
+| [Elasticsearch](https://roadmap.sh/elasticsearch) | Learning Elasticsearch for search and analytics |
+| [WordPress](https://roadmap.sh/wordpress) | Learning WordPress development |
+| [Django](https://roadmap.sh/django) | Learning the Django Python framework |
+| [Ruby](https://roadmap.sh/ruby) | Learning the Ruby programming language |
+| [Ruby on Rails](https://roadmap.sh/ruby-on-rails) | Learning the Ruby on Rails framework |
+| [Scala](https://roadmap.sh/scala) | Learning the Scala programming language |
+
+---
