@@ -106,3 +106,15 @@ Focused guides for a specific language, framework, or skill.
 | [Scala](https://roadmap.sh/scala) | Learning the Scala programming language |
 
 ---
+
+## Absolute Beginners
+Entry-level paths for people just starting out.
+
+| Roadmap | Description |
+|---|---|
+| [Frontend Beginner](https://roadmap.sh/frontend-beginner) | First steps into frontend development |
+| [Backend Beginner](https://roadmap.sh/backend-beginner) | First steps into backend development |
+| [DevOps Beginner](https://roadmap.sh/devops-beginner) | First steps into DevOps |
+| [Git and GitHub Beginner](https://roadmap.sh/git-github-beginner) | First steps into version control |
+
+---
