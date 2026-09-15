@@ -118,3 +118,18 @@ Entry-level paths for people just starting out.
 | [Git and GitHub Beginner](https://roadmap.sh/git-github-beginner) | First steps into version control |
 
 ---
+
+## Best Practices
+Focused guides on doing things the right way in a specific area.
+
+| Roadmap | Description |
+|---|---|
+| [AWS Best Practices](https://roadmap.sh/aws-best-practices) | Recommended practices for using AWS |
+| [API Security Best Practices](https://roadmap.sh/api-security-best-practices) | Recommended practices for securing APIs |
+| [Backend Performance Best Practices](https://roadmap.sh/backend-performance-best-practices) | Recommended practices for backend performance |
+| [Frontend Performance Best Practices](https://roadmap.sh/frontend-performance-best-practices) | Recommended practices for frontend performance |
+| [Code Review Best Practices](https://roadmap.sh/code-review-best-practices) | Recommended practices for reviewing code |
+
+---
+
+
