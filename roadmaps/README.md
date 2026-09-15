@@ -132,4 +132,12 @@ Focused guides on doing things the right way in a specific area.
 
 ---
 
+## Notes
 
+- Roadmap.sh also offers an **[AI Tutor](https://roadmap.sh/ai)** that can teach any topic interactively.
+- The site tracks ~94 roadmaps in total across all categories, and new ones are added regularly — check the [full roadmap list](https://roadmap.sh/roadmaps) for the latest additions.
+- Roadmaps most directly relevant to AI/ML work in this repo: [AI Engineer](https://roadmap.sh/ai-engineer), [AI and Data Scientist](https://roadmap.sh/ai-data-scientist), [Machine Learning](https://roadmap.sh/machine-learning), [MLOps](https://roadmap.sh/mlops), [AI Agents](https://roadmap.sh/ai-agents), [AI Product Builders](https://roadmap.sh/ai-product-builder), [Prompt Engineering](https://roadmap.sh/prompt-engineering), [AI Red Teaming](https://roadmap.sh/ai-red-teaming), and [Data Engineer](https://roadmap.sh/data-engineer).
+
+---
+
+*All roadmaps are community-created and maintained by [roadmap.sh](https://roadmap.sh). This file is just a link index for quick navigation — visit the source site for the actual interactive roadmaps.*
