@@ -106,3 +106,38 @@ Focused guides for a specific language, framework, or skill.
 | [Scala](https://roadmap.sh/scala) | Learning the Scala programming language |
 
 ---
+
+## Absolute Beginners
+Entry-level paths for people just starting out.
+
+| Roadmap | Description |
+|---|---|
+| [Frontend Beginner](https://roadmap.sh/frontend-beginner) | First steps into frontend development |
+| [Backend Beginner](https://roadmap.sh/backend-beginner) | First steps into backend development |
+| [DevOps Beginner](https://roadmap.sh/devops-beginner) | First steps into DevOps |
+| [Git and GitHub Beginner](https://roadmap.sh/git-github-beginner) | First steps into version control |
+
+---
+
+## Best Practices
+Focused guides on doing things the right way in a specific area.
+
+| Roadmap | Description |
+|---|---|
+| [AWS Best Practices](https://roadmap.sh/aws-best-practices) | Recommended practices for using AWS |
+| [API Security Best Practices](https://roadmap.sh/api-security-best-practices) | Recommended practices for securing APIs |
+| [Backend Performance Best Practices](https://roadmap.sh/backend-performance-best-practices) | Recommended practices for backend performance |
+| [Frontend Performance Best Practices](https://roadmap.sh/frontend-performance-best-practices) | Recommended practices for frontend performance |
+| [Code Review Best Practices](https://roadmap.sh/code-review-best-practices) | Recommended practices for reviewing code |
+
+---
+
+## Notes
+
+- Roadmap.sh also offers an **[AI Tutor](https://roadmap.sh/ai)** that can teach any topic interactively.
+- The site tracks ~94 roadmaps in total across all categories, and new ones are added regularly — check the [full roadmap list](https://roadmap.sh/roadmaps) for the latest additions.
+- Roadmaps most directly relevant to AI/ML work in this repo: [AI Engineer](https://roadmap.sh/ai-engineer), [AI and Data Scientist](https://roadmap.sh/ai-data-scientist), [Machine Learning](https://roadmap.sh/machine-learning), [MLOps](https://roadmap.sh/mlops), [AI Agents](https://roadmap.sh/ai-agents), [AI Product Builders](https://roadmap.sh/ai-product-builder), [Prompt Engineering](https://roadmap.sh/prompt-engineering), [AI Red Teaming](https://roadmap.sh/ai-red-teaming), and [Data Engineer](https://roadmap.sh/data-engineer).
+
+---
+
+*All roadmaps are community-created and maintained by [roadmap.sh](https://roadmap.sh). This file is just a link index for quick navigation — visit the source site for the actual interactive roadmaps.*
